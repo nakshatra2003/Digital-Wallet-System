@@ -1,7 +1,7 @@
 # Digital-Wallet-System
 ## Overview
 
-This project implements an Digital Wallet System using C++ that allows users to manage their accounts, perform transactions, and interact with various financial services using OOPs and File Handling.
+This project implements a Digital Wallet System using C++ that allows users to manage their accounts, perform transactions, and interact with various financial services using OOPs and File Handling.
 
 ## Features
 
